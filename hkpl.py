@@ -6,6 +6,9 @@ Import "hkpl" into your program, and call fetch_library_info method with the 2 p
 	user_barcode: your library card number
 	user_pin: your pin number
 
+Python package dependency:
+mechanize <http://wwwsearch.sourceforge.net/mechanize/>
+
 Created by Kenneth Anguish on 6/24/2010.
 
 """
